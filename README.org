@@ -1,4 +1,5 @@
 #+TITLE: Lunr.js basic usage
+#+TAGS: cryptokasten, lunr, lunrjs, fulltext-search
 #+PROPERTY: header-args:js :session *shell lunr-js-basic-usage js* :results silent raw
 #+OPTIONS: ^:nil
 
